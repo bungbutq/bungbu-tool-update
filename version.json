@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "exe_url": "https://github.com/bungbutq/bungbu-tool-update/releases/download/v1.3.0/bungbu_tool.exe",
-  "extension_package_url": "https://github.com/bungbutq/bungbu-tool-update/releases/download/v1.3.0/extension_package.zip",
+  "version": "1.7.0",
+  "exe_url": "https://github.com/bungbutq/bungbu-tool-update/releases/download/v1.7.0/bungbu_tool.exe",
+  "extension_package_url": "https://github.com/bungbutq/bungbu-tool-update/releases/download/v1.7.0/extension_package.zip",
   "sha256_exe": "",
   "sha256_extension": "",
   "notes": "Cập nhật tính năng kiểm tra phiên bản và cài đặt cập nhật."
